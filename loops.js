@@ -1,3 +1,3 @@
-for (var = 1; i < 26; i++) {
+for (i = 1; i < 25; i++) {
   console.log (`I am a strange loop`)
 }
